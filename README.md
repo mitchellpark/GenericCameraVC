@@ -1,2 +1,2 @@
-# GenericCameraVC using AVFoundation
-A ViewController to override for the generic camera setup.
+#### GenericCameraVC using AVFoundation
+Subclass CameraView for the generic camera setup on iOS
